@@ -69,4 +69,4 @@ Webhook → Search Airtable Records
 - Multi channel notification system
 
 ## Workflow Preview
-![Gym Management Automation](gym_automation.jpg)
+![Gym Management Automation](gym_automation.png)
